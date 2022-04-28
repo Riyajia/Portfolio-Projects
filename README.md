@@ -1,8 +1,8 @@
 # Portfolio-Projects
 These are the following projects in my portfolio
 
-1. AirBnBSeattle Project.twbx {
-     Tableau Vizualization of Seatle AirBnB data
+1. AirBnBSeattle Project.twbx 
+     {Tableau Vizualization of Seatle AirBnB data
      The vizualization can be seen at https://public.tableau.com/app/profile/riyabiswas/viz/AirBnBSeattleProject_16470271264010/Dashboard1
      (Dataset was downloaded from Kaggle)}
 
