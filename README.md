@@ -10,8 +10,8 @@ These are the following projects in my portfolio
      {Exploration of Covid Data, cases, deaths and vaccnations done in the world using SQL
      (Dataset was downloaded from OurWorld in Data)}
 
-3. Covid Data Vizualization using Tableau 
-     Link to the Dashboard https://public.tableau.com/app/profile/riyabiswas/viz/CovidDataDashoard/Dashboard1
+3. Covid Data Dashboard: Vizualization using Tableau                     
+    {Link to the Dashboard https://public.tableau.com/app/profile/riyabiswas/viz/CovidDataDashoard/Dashboard1}
 
 3. Movies Correlation Portfolio Project.ipy
      { Finding Correlation in Data using pyhton
